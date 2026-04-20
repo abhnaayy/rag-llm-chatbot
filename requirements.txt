@@ -1,11 +1,5 @@
-fastapi
-uvicorn
 streamlit
-requests
 langchain
 langchain-community
-faiss-cpu
-transformers
-sentence-transformers
-torch
 langchain-huggingface
+requests
