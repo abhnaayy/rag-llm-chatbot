@@ -1,0 +1,9 @@
+Machine learning is a field of artificial intelligence that enables systems to learn from data.
+
+Artificial intelligence is the simulation of human intelligence by machines.
+
+Cloud computing provides on-demand computing resources over the internet.
+
+Docker is a containerization platform used to deploy applications.
+
+CI/CD stands for Continuous Integration and Continuous Deployment.
